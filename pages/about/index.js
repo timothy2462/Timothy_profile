@@ -80,7 +80,7 @@ const aboutData = [
         stage: "2009",
       },
       {
-        title: "Certified Graphic Designer - ABC Institute, Los Angeles, CA",
+        title: "Certified Office tech manager - YCT Institute, LA, CA",
         stage: "2006",
       },
     ],
