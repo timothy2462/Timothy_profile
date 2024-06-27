@@ -88,7 +88,7 @@ const aboutData = [
 ];
 
 const About = () => {
-  return <div>About</div>;
+  return <div>This is about me section</div>;
 };
 
 export default About;
