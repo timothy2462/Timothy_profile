@@ -29,8 +29,9 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            I am a software developer, specialized in web development. I have
-            over a year of experience in different web programming languages
+            I am a software developer, specialized in web development and mobile
+            development. I have over a year of experience in different web
+            programming languages
           </motion.p>
           {/* btn */}
           {/* <div className="flex justify-center xl:hidden relative">
