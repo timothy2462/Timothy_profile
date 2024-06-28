@@ -24,7 +24,7 @@ const testimonialData = [
 ];
 
 const TestimonialSlider = () => {
-  return <div>Testimonial Slider</div>;
+  return <div>Testimonial Sectionr</div>;
 };
 
 export default TestimonialSlider;
