@@ -1,5 +1,5 @@
 const Bulb = () => {
-  return <div>Bulb</div>;
+  return <div>This is the bulb part</div>;
 };
 
 export default Bulb;
