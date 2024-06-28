@@ -1,5 +1,5 @@
 const Circles = () => {
-  return <div>Circles</div>;
+  return <div>for circles animations</div>;
 };
 
 export default Circles;
